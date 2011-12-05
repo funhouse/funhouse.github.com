@@ -201,11 +201,11 @@ table { border-collapse: collapse; border-spacing: 0; }
    Author: 
    ========================================================================== */
 
-h1 { font-family: m-1c,sans-serif;
+h1 { font-family: league-gothic, sans-serif;
      font-style: normal;
-     font-weight: 200;
      font-size: 10em;
-     text-align: center }
+     text-align: center;
+     text-transform: uppercase }
 
 div#container { margin: 0 auto }
 
